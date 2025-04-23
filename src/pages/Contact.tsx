@@ -38,7 +38,7 @@ const Contact = () => {
                   <div>
                     <h3 className="text-lg font-semibold mb-1">Our Office</h3>
                     <p className="text-gray-600">
-                      123 Tech Avenue<br />
+                      Tech Avenue<br />
                       Harare, Zimbabwe
                     </p>
                   </div>
@@ -50,8 +50,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold mb-1">Phone</h3>
-                    <p className="text-gray-600">+263 123 456 789</p>
-                    <p className="text-gray-600">+263 987 654 321</p>
+                    <p className="text-gray-600">+263 733 517 788</p>
+                   
                   </div>
                 </div>
                 
@@ -61,8 +61,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="text-lg font-semibold mb-1">Email</h3>
-                    <p className="text-gray-600">info@techvision.co.zw</p>
-                    <p className="text-gray-600">support@techvision.co.zw</p>
+                    <p className="text-gray-600">chakurungamatapiwanashe@gmail.com</p>
+                    <p className="text-gray-600">support@horizonsystems.co.zw</p>
                   </div>
                 </div>
                 
