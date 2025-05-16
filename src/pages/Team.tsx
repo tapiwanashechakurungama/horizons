@@ -8,8 +8,8 @@ import TeamMember from '@/components/TeamMember';
 const Team = () => {
   const teamMembers = [
     {
-      name: 'Michael Chikwanda',
-      role: 'Founder & CEO',
+      name: 'Tapiwanashe Chakurungama',
+      role: 'CTO & CEO',
       image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a',
       socialLinks: {
         twitter: '#',
