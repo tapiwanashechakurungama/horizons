@@ -13,7 +13,7 @@ const About = () => {
       <section className="pt-32 pb-16 bg-gradient-to-br from-purple-50 via-white to-purple-100">
         <div className="container mx-auto px-4 text-center">
           <AnimatedSection>
-            <h1 className="text-4xl md:text-5xl font-bold mb-6">About Horizon Systems</h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-6">About NEICHNICE</h1>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
               Empowering businesses through innovative digital solutions since 2018.
             </p>
@@ -27,7 +27,7 @@ const About = () => {
             <AnimatedSection className="lg:w-1/2" animation="fade">
               <h2 className="text-3xl font-bold mb-6">Our Story</h2>
               <p className="text-gray-600 mb-6">
-                Horizon Systems was founded in 2025 with a simple but ambitious mission: to help businesses in Zimbabwe 
+                Neichnice was founded in 2025 with a simple but ambitious mission: to help businesses in Zimbabwe 
                 harness the power of digital technology. What started as a small team of passionate tech enthusiasts 
                 has grown into a comprehensive digital solutions provider.
               </p>
