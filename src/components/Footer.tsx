@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <div>
-            <h3 className="text-2xl font-bold mb-4">TechVision</h3>
+            <h3 className="text-2xl font-bold mb-4">NEICHNICE</h3>
             <p className="mb-4 text-gray-300">
               Empowering businesses through innovative digital solutions. 
               We transform ideas into impactful digital experiences.
@@ -77,7 +77,7 @@ const Footer = () => {
               <li className="flex items-start">
                 <MapPin className="mr-3 h-6 w-6 text-primary flex-shrink-0" />
                 <span className="text-gray-300">
-                  123 Tech Avenue, Harare, Zimbabwe
+                  Harare, Zimbabwe
                 </span>
               </li>
               <li className="flex items-center">
@@ -86,7 +86,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center">
                 <Mail className="mr-3 h-6 w-6 text-primary flex-shrink-0" />
-                <span className="text-gray-300">chakurungamatapiwanashe@gmail.com</span>
+                <span className="text-gray-300">chakurungamatapiwanashe@hotmail.com</span>
               </li>
             </ul>
           </div>
