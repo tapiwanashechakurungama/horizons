@@ -9,7 +9,7 @@ const Team = () => {
   const teamMembers = [
     {
       name: 'Tapiwanashe Chakurungama',
-      role: 'CTO & CEO',
+      role: 'CTO,Systems Engineer (Zimbabwe)',
       image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a',
       socialLinks: {
         twitter: '#',
@@ -18,8 +18,8 @@ const Team = () => {
       }
     },
     {
-      name: 'Tendai Moyo',
-      role: 'Chief Technology Officer',
+      name: 'Samuel Yaw Dawson',
+      role: 'CXO, Software Developer (Ghana)',
       image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d',
       socialLinks: {
         twitter: '#',
