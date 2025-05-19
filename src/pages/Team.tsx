@@ -9,7 +9,7 @@ const Team = () => {
   const teamMembers = [
     {
       name: 'Tapiwanashe Chakurungama',
-      role: 'CTO,Systems Engineer (Zimbabwe)',
+      role: 'CTO, Systems Engineer (Zimbabwe)',
       image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a',
       socialLinks: {
         twitter: '#',
@@ -28,8 +28,8 @@ const Team = () => {
       }
     },
     {
-      name: 'Nyasha Mutasa',
-      role: 'Lead Web Developer',
+      name: 'MacDonald Gudo',
+      role: 'Lead Systems developer',
       image: 'https://images.unsplash.com/photo-1531123897727-8f129e1688ce',
       socialLinks: {
         twitter: '#',
