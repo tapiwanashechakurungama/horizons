@@ -29,7 +29,7 @@ const Team = () => {
     },
     {
       name: 'MacDonald Gudo',
-      role: 'Lead Systems developer',
+      role: 'Lead Systems developer (Zimbabwe)',
       image: 'https://images.unsplash.com/photo-1531123897727-8f129e1688ce',
       socialLinks: {
         twitter: '#',
