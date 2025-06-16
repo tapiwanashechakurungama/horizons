@@ -15,7 +15,7 @@ const About = () => {
           <AnimatedSection>
             <h1 className="text-4xl md:text-5xl font-bold mb-6">About NEICHNICE</h1>
             <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-              Empowering businesses through innovative digital solutions since 2018.
+              Empowering businesses through innovative digital solutions .
             </p>
           </AnimatedSection>
         </div>
