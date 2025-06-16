@@ -50,9 +50,9 @@ const Navbar = () => {
             </Link>
           </li>
           <li>
-            <Link to="/team" className="nav-link font-medium">
+{/*             <Link to="/team" className="nav-link font-medium">
               Our Team
-            </Link>
+            </Link> */}
           </li>
           <li>
             <Link to="/contact" className="nav-link font-medium">
@@ -102,13 +102,13 @@ const Navbar = () => {
               </Link>
             </li>
             <li className="py-2 px-4">
-              <Link 
+{/*               <Link 
                 to="/team" 
                 className="block w-full py-2 text-center"
                 onClick={() => setIsOpen(false)}
               >
                 Our Team
-              </Link>
+              </Link> */}
             </li>
             <li className="py-2 px-4">
               <Link 
