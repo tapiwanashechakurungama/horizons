@@ -59,11 +59,7 @@ const Footer = () => {
                   Gadget Shipping
                 </Link>
               </li>
-              <li>
-                <Link to="/team" className="text-gray-300 hover:text-white transition-colors">
-                  Our Team
-                </Link>
-              </li>
+             
               <li>
                 <Link to="/contact" className="text-gray-300 hover:text-white transition-colors">
                   Contact Us
