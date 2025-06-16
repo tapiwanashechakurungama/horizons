@@ -27,9 +27,10 @@ const Navbar = () => {
       }`}
     >
       <div className="container mx-auto px-4 flex justify-between items-center">
-        <Link to="/" className="text-2xl font-bold text-primary">
-          NEICHNICE
-        </Link>
+       <div className="flex justify-center items-center "> 
+       <img className="w-12 h-12" src="https://media.licdn.com/dms/image/v2/D4D0BAQHUG3tuhmusew/img-crop_100/B4DZdTk_X9GkAM-/0/1749453896331?e=1755734400&v=beta&t=IgCnGyTWYYAqC6O3uvXAzjWwdlVjZyXsADVjeBL1tdw"/>
+         <Link to="/" className="text-2xl font-bold text-primary"> NEICHNICE </Link>
+       </div>
 
         {/* Desktop Navigation */}
         <ul className="hidden md:flex space-x-8">
