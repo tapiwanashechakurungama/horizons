@@ -14,7 +14,7 @@ const Team = () => {
       socialLinks: {
         twitter: '#',
         linkedin: 'https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAEqyzJgB36FdYFsgJsFBlAjnyPKJvQ061vk&keywords=tapiwanashe%20chakurungama&origin=RICH_QUERY_SUGGESTION&position=0&searchId=5ff7279c-9609-4beb-8d0c-38637d0b32a0&sid=i(G&spellCorrectionEnabled=false',
-        github: '#'
+        github: 'github.com/tapiwanashechakurungama'
       }
     },
     {
