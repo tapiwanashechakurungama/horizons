@@ -145,23 +145,7 @@ const Contact = () => {
             <div className="bg-white p-4 rounded-lg shadow-lg">
               {/* Map placeholder - in a real scenario, you would integrate Google Maps or similar */}
               <div className="bg-gray-200 h-96 rounded-lg flex items-center justify-center">
-                <div className="text-center p-8">
-                  <MapPin className="h-12 w-12 text-gray-500 mx-auto mb-4" />
-                  <h3 className="text-xl font-bold mb-2">Google Maps Integration</h3>
-                  <p className="text-gray-600">
-                    In a real implementation, an interactive Google Map would be displayed here showing our office location.
-                  </p>
-                  <div className="mt-4">
-                    <a 
-                      href="https://maps.google.com" 
-                      target="_blank" 
-                      rel="noopener noreferrer" 
-                      className="text-primary hover:underline"
-                    >
-                      View on Google Maps
-                    </a>
-                  </div>
-                </div>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d60786.89428569115!2d31.113215999999998!3d-17.7831936!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2szw!4v1750073597556!5m2!1sen!2szw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
               </div>
             </div>
           </AnimatedSection>
