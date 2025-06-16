@@ -10,10 +10,10 @@ const Team = () => {
     {
       name: 'Tapiwanashe Chakurungama',
       role: 'CTO, Systems Engineer (Zimbabwe)',
-      image: 'https://images.unsplash.com/photo-1560250097-0b93528c311a',
+      image: 'https://nashy.vercel.app/assets/img/banner.png',
       socialLinks: {
         twitter: '#',
-        linkedin: '#',
+        linkedin: 'https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Afsd_profile%3AACoAAEqyzJgB36FdYFsgJsFBlAjnyPKJvQ061vk&keywords=tapiwanashe%20chakurungama&origin=RICH_QUERY_SUGGESTION&position=0&searchId=5ff7279c-9609-4beb-8d0c-38637d0b32a0&sid=i(G&spellCorrectionEnabled=false',
         github: '#'
       }
     },
