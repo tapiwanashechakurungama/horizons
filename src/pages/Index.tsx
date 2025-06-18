@@ -143,7 +143,7 @@ const Index = () => {
               />
             </AnimatedSection>
             <AnimatedSection className="lg:w-1/2" animation="slide">
-              <h2 className="text-3xl md:text-4xl font-bold mb-6">Why Choose TechVision?</h2>
+              <h2 className="text-3xl md:text-4xl font-bold mb-6">Why Us ?</h2>
               <div className="space-y-6">
                 <div className="flex">
                   <div className="flex-shrink-0 mt-1">
