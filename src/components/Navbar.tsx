@@ -28,7 +28,7 @@ const Navbar = () => {
     >
       <div className="container mx-auto px-4 flex justify-between items-center">
        <div className="flex justify-center items-center "> 
-         <Link to="/" className="text-2xl font-bold text-primary"> neichnice </Link>
+         <Link to="/" className="text-2xl font-bold text-primary"> Neichnince</Link>
        </div>
 
         {/* Desktop Navigation */}
@@ -46,6 +46,11 @@ const Navbar = () => {
           <li>
             <Link to="/services" className="nav-link font-medium">
               Services
+            </Link>
+          </li>
+          <li>
+            <Link to="/team" className="nav-link font-medium">
+              Team
             </Link>
           </li>
         

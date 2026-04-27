@@ -18,19 +18,9 @@ const Team = () => {
       }
     },
     {
-      name: 'Samuel Yaw Dawson',
-      role: 'CXO, Software Developer (Ghana)',
-      image: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d',
-      socialLinks: {
-        twitter: '#',
-        linkedin: '#',
-        github: '#'
-      }
-    },
-    {
       name: 'MacDonald Gudo',
-      role: 'Lead Systems developer (Zimbabwe)',
-      image: 'https://images.unsplash.com/photo-1531123897727-8f129e1688ce',
+      role: 'CEO, Lead Systems developer (Zimbabwe)',
+      image: 'https://avatars.githubusercontent.com/u/141135997?v=4',
       socialLinks: {
         twitter: '#',
         linkedin: '#',
@@ -38,8 +28,8 @@ const Team = () => {
       }
     },
     {
-      name: 'Tatenda Muponda',
-      role: 'Mobile App Developer',
+      name: 'McDonald Chirumezani',
+      role: 'COO, Associate Engineer (Zimbabwe)',
       image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7',
       socialLinks: {
         twitter: '#',
@@ -47,46 +37,6 @@ const Team = () => {
         github: '#'
       }
     },
-    {
-      name: 'Rufaro Manyika',
-      role: 'Lead UI/UX Designer',
-      image: 'https://images.unsplash.com/photo-1494790108377-be9c29b29330',
-      socialLinks: {
-        twitter: '#',
-        linkedin: '#',
-        github: '#'
-      }
-    },
-    {
-      name: 'Tafadzwa Ncube',
-      role: 'Graphic Designer',
-      image: 'https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e',
-      socialLinks: {
-        twitter: '#',
-        linkedin: '#',
-        github: '#'
-      }
-    },
-    {
-      name: 'Kudzai Mutero',
-      role: 'Digital Marketing Specialist',
-      image: 'https://images.unsplash.com/photo-1629425733761-caae3b5f2e50',
-      socialLinks: {
-        twitter: '#',
-        linkedin: '#',
-        github: '#'
-      }
-    },
-    {
-      name: 'Farai Dube',
-      role: 'Operations Manager',
-      image: 'https://images.unsplash.com/photo-1541855492-581f618f69a0',
-      socialLinks: {
-        twitter: '#',
-        linkedin: '#',
-        github: '#'
-      }
-    }
   ];
 
   return (
