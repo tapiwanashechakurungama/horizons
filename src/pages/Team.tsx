@@ -37,6 +37,16 @@ const Team = () => {
         github: '#'
       }
     },
+    {
+      name: 'Samuel Dawson Yaw',
+      role: 'Associate Engineer (Ghana)',
+      image: 'https://images.unsplash.com/photo-1519085360753-af0119f7cbe7',
+      socialLinks: {
+        twitter: '#',
+        linkedin: '#',
+        github: '#'
+      }
+    }
   ];
 
   return (
