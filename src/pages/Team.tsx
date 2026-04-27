@@ -90,7 +90,7 @@ const Team = () => {
             <AnimatedSection className="lg:w-1/2" animation="fade">
               <h2 className="text-3xl font-bold mb-6">Our Culture</h2>
               <p className="text-gray-600 mb-6">
-                At TechVision, we believe that our people are our greatest asset. We foster a culture of innovation, 
+                At Neichnice, we believe that our people are our greatest asset. We foster a culture of innovation, 
                 collaboration, and continuous learning, where every team member is encouraged to bring their unique 
                 perspectives and skills to the table.
               </p>
